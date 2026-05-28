@@ -10,6 +10,7 @@ responses = {
     "kubernetes": "Kubernetes manages containers.",
     "bye": "Goodbye!",
     "python": "Python is a programming language."
+    
 }
 
 @app.route('/', methods=['GET', 'POST'])
