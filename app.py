@@ -9,7 +9,7 @@ responses = {
     "docker": "Docker is used for containerization.",
     "kubernetes": "Kubernetes manages containers.",
     "bye": "Goodbye!See you",
-    "python": "Python is a programming language."
+    "python": "Python is used in AI and DevOps."
     
 }
 
