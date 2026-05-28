@@ -4,11 +4,11 @@ app = Flask(__name__)
 
 responses = {
     "hello": "Hello! How can I help you?",
-    "hi": "Hi there!How can I assit you",
+    "hi": "Hi there! How can I assist you?",
     "devops": "DevOps combines development and operations.",
     "docker": "Docker is used for containerization.",
     "kubernetes": "Kubernetes manages containers.",
-    "bye": "Goodbye!Have a great day",
+    "bye": "Bye.Have  great day",
     "python": "Python is used in AI and DevOps."
     
 }
