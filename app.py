@@ -6,7 +6,7 @@ responses = {
     "hello": "Hello! How can I help you?",
     "hi": "Hi there!",
     "devops": "DevOps combines development and operations.",
-    "docker": "Docker is used for containerization.",
+    "docker": "Docker is used for DevOps containerization.",
     "kubernetes": "Kubernetes manages containers.",
     "bye": "Goodbye!See you",
     "python": "Python is used in AI and DevOps."
