@@ -4,19 +4,11 @@ app = Flask(__name__)
 
 responses = {
     "hello": "Hello! How can I help you?",
-<<<<<<< HEAD
     "hi": "Hi there! How can I assist you?",
     "devops": "DevOps combines development and operations.",
     "docker": "Docker is used for containerization.",
     "kubernetes": "Kubernetes manages containers.",
     "bye": "Bye.Have  great day",
-=======
-    "hi": "Hi there!How can I assit you",
-    "devops": "DevOps combines development and operations.",
-    "docker": "Docker is used for containerization.",
-    "kubernetes": "Kubernetes manages containers.",
-    "bye": "Goodbye!Have a great day",
->>>>>>> 2ba002f26e03a305edc38e52240678f776e1b1a1
     "python": "Python is used in AI and DevOps."
     
 }
