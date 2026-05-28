@@ -8,8 +8,9 @@ responses = {
     "devops": "DevOps combines development and operations.",
     "docker": "Docker is used for containerization.",
     "kubernetes": "Kubernetes manages containers.",
-    "bye": "Goodbye!",
+    "bye": "Goodbye!See you",
     "python": "Python is a programming language."
+    
 }
 
 @app.route('/', methods=['GET', 'POST'])
