@@ -10,6 +10,12 @@ responses = {
     "kubernetes": "Kubernetes manages containers.",
     "bye": "Bye.Have  great day",
      "Good morning":"Very Good Morning", 
+    "hi": "Hi there!How can i assist you",
+    "devops": "DevOps combines development and operations.",
+    "docker": "Docker is used for containerization.",
+    "kubernetes": "Kubernetes manages containers.",
+    "bye": "Bye.bye.Updated by Manoj",
+    "Good morning":"Very Good Morning", 
     "python": "Python is used in AI and DevOps."
     
 }
