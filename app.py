@@ -134,6 +134,7 @@ responses.update({
 "project objective": "The objective is to demonstrate chatbot deployment using DevOps principles."
 })
 
+
 @app.route('/', methods=['GET', 'POST'])
 def home():
     user_message = ""
