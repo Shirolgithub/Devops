@@ -8,7 +8,7 @@ responses = {
     "devops": "DevOps combines development and operations.",
     "docker": "Docker is used for containerization.",
     "kubernetes": "Kubernetes manages containers.",
-    "bye": "Bye.bye.Updated by Ateeq",
+    "bye": "Bye.bye.Updated by Manoj",
     "python": "Python is used in AI and DevOps."
     
 }
